@@ -150,8 +150,8 @@
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Items/ItemsGroup.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Window/TimelineWindow_StateChange.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Signals/Styles.cs" />
-    <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Utilities/Scopes/LabelWidthScope.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Utilities/TypeUtility.cs" />
+    <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Utilities/Scopes/LabelWidthScope.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/inspectors/MarkerInspector.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/Attributes/ShortcutAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.timeline@1.4.8/Editor/CurveEditUtility.cs" />
